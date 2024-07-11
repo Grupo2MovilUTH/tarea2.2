@@ -1,4 +1,4 @@
-# Tarea 2.1
+# Tarea 2.2
 
 Crear una aplicacion que consulte el sitio jsonplaceholder via consumo de servicios web.
 
